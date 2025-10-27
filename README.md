@@ -4,5 +4,5 @@
 I have a lot to learn and i am learning a lot. Thanks to freeCodeCamp, i learn Responsive Web Design.<br>
 I am a french frog, english isn't my mother language so don't be too tough with me.<br><br>
 
-⚠️ For all FreeCodeCamp exercises and projects, once the instructions have been validated, I take the liberty of adding my own touch to the code and the page.
+⚠️ For all Sayah exercises and FreeCodeCamp projects, once the instructions have been validated, I take the liberty of adding my own touch to the code and the page.
 I consider each project to be a WIP, and subject to change in the future. ⚠️
