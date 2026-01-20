@@ -10,7 +10,7 @@ https://aymericpbdev.github.io/fcc-surveyform/<br>
 https://aymericpbdev.github.io/fcc-tributepage/<br>
 https://aymericpbdev.github.io/fcc-technicaldoc/<br>
 https://aymericpbdev.github.io/fcc-productlandingpage/<br>
-https://aymericpbdev.github.io/exercise-fictionalevent/
+https://aymericpbdev.github.io/exercise-fictionalevent/<br>
 https://aymericpbdev.github.io/fcc-palyndromechecker/
 <br><br>
 ⚠️ For all Sayah exercises and FreeCodeCamp projects, once the instructions have been validated, I take the liberty of adding my own touch to the code and the page.
