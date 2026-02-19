@@ -27,7 +27,7 @@ Je termine mon **Titre Professionnel Développeur Web & Web Mobile** à l'AFEC d
 
 ## Accessibility / Accessibilité
 
-**EN** - Accessibility isn't a checkbox for me. My work in the field gave me a practical understanding of what "specific needs" actually looks like, and I want to carry that into how I write code — semantic HTML, WCAG guidelines, interfaces that work for real people.
+**EN** - Accessibility isn't a checkbox for me. My work in the field gave me a practical understanding of what "specific needs" actually looks like, and I want to carry that into how I write code - semantic HTML, WCAG guidelines, interfaces that work for real people.
 
 **FR** - L'accessibilité n'est pas une case à cocher. Mon expérience terrain m'a donné une compréhension concrète de ce que "besoins spécifiques" veut dire, et je veux transposer ça dans ma façon de coder : HTML sémantique, respect des WCAG, interfaces qui fonctionnent pour de vraies personnes.
 
