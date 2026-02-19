@@ -4,7 +4,7 @@
 <h4 align="center"><em>Développeur Web Junior - Orienté accessibilité numérique</em></h4>
 
 <p align="center">
-  <a href="mailto:pain_blavec@hotmail.fr">pain_blavec@hotmail.fr</a> -
+  <a href="mailto:aymericpb.dev@gmail.com">aymericpb.dev@gmail.com</a> -
   <a href="https://github.com/aymericpbdev">github.com/aymericpbdev</a> -
   Agen, France
 </p>
