@@ -73,7 +73,7 @@ Open-source web accessibility audit platform - my diploma capstone project.
 | Project | Live |
 |---|---|
 | Palindrome Checker | [fcc-palyndromechecker](https://aymericpbdev.github.io/fcc-palyndromechecker/) |
-| Roman Numeral Converter | *(coming soon)* |
+| Roman Numeral Converter | [fcc-romannumeralconverter](https://aymericpbdev.github.io/fcc-romannumeralconverter/) |
 
 > All projects are treated as ongoing work. Once the base requirements are met, I keep iterating - layout, accessibility, code quality.
 
