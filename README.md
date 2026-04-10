@@ -63,7 +63,7 @@ Open-source web accessibility audit platform - my diploma capstone project.
 
 ## Other projects / Autres projets
 
-### Group project *(in progress)*
+### Group project : Labor *(in progress)*
 
 🔗 [View repository](https://github.com/aymericpbdev/Project-Labor)
 
